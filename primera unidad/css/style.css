@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Life+Savers:wght@800&family=Lobster&display=swap');
+
+
 .navegacion {
 	display: flex;
 	flex-direction: column;
@@ -8,3 +11,11 @@
 .navegacion a {
 	display: block;
 }
+
+body {
+    font-family: 'Life Savers', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #ce92e2;
+}
+
